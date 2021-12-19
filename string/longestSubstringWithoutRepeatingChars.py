@@ -1,6 +1,6 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        map = {i: 0 for i in range(128)}
+        map = [0] * 128
         start = end = 0
         result = 0
 
@@ -9,7 +9,6 @@ class Solution:
             map[c1] += 1
 
             while map[c1] > 1:
-                print(s[start:end])
                 c2 = ord(s[start])
                 map[c2] -= 1
                 start += 1
@@ -21,5 +20,5 @@ class Solution:
 
 
 s = Solution()
-answer = s.lengthOfLongestSubstring('abcabcbb')
+answer = s.lengthOfLongestSubstring('abca bcbb')
 print(answer)
