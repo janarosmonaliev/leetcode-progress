@@ -7,3 +7,4 @@
 | 12.19.21 | Longest Substring w/o Repeating Chars | 3      | String      | `Medium` |
 | 12.24.21 | Maximum Subarray | 53      | Arrays      | `Easy` |
 | 12.27.21 | Move Zeroes | 283      | Arrays      | `Easy` |
+| 12.27.21 | Contains Duplicate | 217      | Arrays      | `Easy` |
