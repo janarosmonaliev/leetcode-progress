@@ -6,3 +6,4 @@
 | 12.18.21 | Add Two Numbers                       | 2      | Linked List | `Medium` |
 | 12.19.21 | Longest Substring w/o Repeating Chars | 3      | String      | `Medium` |
 | 12.24.21 | Maximum Subarray | 53      | Arrays      | `Easy` |
+| 12.27.21 | Move Zeroes | 283      | Arrays      | `Easy` |
