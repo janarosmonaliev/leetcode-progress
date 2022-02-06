@@ -25,4 +25,6 @@ class Solution:
 
 s = Solution()
 arr = [1, 8, 6, 2, 5, 4, 8, 3, 7]
+arr1 = [2, 3, 4, 5, 18, 17, 6]
 print(s.maxArea(arr))
+print(s.maxArea(arr1))
