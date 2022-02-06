@@ -12,6 +12,7 @@
 
 ## BFE stats
 
-| Date         | Name              | Number | Topic | Level  |
-| ------------ | ----------------- | ------ | ----- | ------ |
-| Feb 01, 2022 | Implement curry() | 1      | JS    | `Easy` |
+| Date         | Name                     | Number | Topic | Level  |
+| ------------ | ------------------------ | ------ | ----- | ------ |
+| Feb 01, 2022 | Implement curry()        | 1      | JS    | `Easy` |
+| Feb 02, 2022 | curry() with placeholder | 2      | JS    | `Easy` |
