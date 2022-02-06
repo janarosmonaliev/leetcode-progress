@@ -11,7 +11,6 @@ class Solution:
 
         for i in range(1, len(nums)):
             subarraySum = max(nums[i], subarraySum + nums[i])
-
             if subarraySum > maxSum:
                 maxSum = subarraySum
 
