@@ -10,6 +10,7 @@
 | Dec 27, 2021 | Contains Duplicate                    | 217    | Arrays      | `Easy`   |
 | Dec 27, 2021 | Rotate Array                          | 189    | Arrays      | `Medium` |
 | Feb 06, 2022 | Container With Most Water             | 11     | Arrays      | `Medium` |
+| Feb 06, 2022 | Longest Common Subsequence            | 1143   | String      | `Medium` |
 
 ## BFE stats
 
