@@ -18,3 +18,4 @@
 | ------------ | ------------------------ | ------ | ----- | ------ |
 | Feb 01, 2022 | Implement curry()        | 1      | JS    | `Easy` |
 | Feb 02, 2022 | curry() with placeholder | 2      | JS    | `Easy` |
+| Feb 22, 2022 | Implement clearAllTimeout() | 28      | JS    | `Easy` |
