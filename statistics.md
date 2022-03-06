@@ -20,3 +20,4 @@
 | Feb 02, 2022 | curry() with placeholder | 2      | JS    | `Easy` |
 | Feb 22, 2022 | Implement clearAllTimeout() | 28      | JS    | `Easy` |
 | Mar 5, 2022 | Implement basic throttle() | 4      | JS    | `Medium` |
+| Mar 5, 2022 | Implement basic debounce() | 6      | JS    | `Easy` |
