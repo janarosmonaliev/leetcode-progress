@@ -14,10 +14,13 @@
 
 ## BFE stats
 
-| Date         | Name                     | Number | Topic | Level  |
-| ------------ | ------------------------ | ------ | ----- | ------ |
-| Feb 01, 2022 | Implement curry()        | 1      | JS    | `Easy` |
-| Feb 02, 2022 | curry() with placeholder | 2      | JS    | `Easy` |
-| Feb 22, 2022 | Implement clearAllTimeout() | 28      | JS    | `Easy` |
-| Mar 5, 2022 | Implement basic throttle() | 4      | JS    | `Medium` |
-| Mar 5, 2022 | Implement basic debounce() | 6      | JS    | `Easy` |
+| Date         | Name                        | Number | Topic | Level    |
+| ------------ | --------------------------- | ------ | ----- | -------- |
+| Feb 01, 2022 | Implement curry()           | 1      | JS    | `Easy`   |
+| Feb 02, 2022 | curry() with placeholder    | 2      | JS    | `Easy`   |
+| Feb 22, 2022 | Implement clearAllTimeout() | 28     | JS    | `Easy`   |
+| Mar 5, 2022  | Implement basic throttle()  | 4      | JS    | `Medium` |
+| Mar 5, 2022  | Implement basic debounce()  | 6      | JS    | `Easy`   |
+| Mar 7, 2022  | create an Event Emitter     | 16     | JS    | `Medium` |
+| Mar 7, 2022  | implement clearAllTimeout() | 28     | JS    | `Easy`   |
+| Mar 7, 2022  | to.Be() or not.toBe()       | 161    | JS    | `Medium` |
