@@ -24,7 +24,6 @@
 | Mar 7, 2022  | create an Event Emitter               | 16     | JS    | `Medium` |
 | Mar 7, 2022  | implement clearAllTimeout()           | 28     | JS    | `Easy`   |
 | Mar 7, 2022  | to.Be() or not.toBe()                 | 161    | JS    | `Medium` |
-| Mar 7, 2022  | to.Be() or not.toBe()                 | 161    | JS    | `Medium` |
 | Mar 7, 2022  | implement Array.prototype.flat()      | 3      | JS    | `Easy`   |
 | Mar 7, 2022  | get DOM tree height                   | 58     | JS    | `Easy`   |
 | Mar 8, 2022  | first bad version                     | 10     | JS    | `Medium` |
@@ -32,3 +31,5 @@
 | Mar 8, 2022  | implement Array.prototype.map()       | 151    | JS    | `Medium` |
 | Mar 8, 2022  | create a counter object               | 148    | JS    | `Easy`   |
 | Mar 8, 2022  | create a simple store for DOM element | 17     | JS    | `Easy`   |
+| Mar 8, 2022  | implement Promise.all()               | 32     | JS    | `Medium` |
+| Mar 8, 2022  | render String into RichText HTML      | N/A    | JS    | `Easy`   |
