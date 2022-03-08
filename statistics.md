@@ -14,16 +14,21 @@
 
 ## BFE stats
 
-| Date         | Name                             | Number | Topic | Level    |
-| ------------ | -------------------------------- | ------ | ----- | -------- |
-| Feb 01, 2022 | Implement curry()                | 1      | JS    | `Easy`   |
-| Feb 02, 2022 | curry() with placeholder         | 2      | JS    | `Easy`   |
-| Feb 22, 2022 | Implement clearAllTimeout()      | 28     | JS    | `Easy`   |
-| Mar 5, 2022  | Implement basic throttle()       | 4      | JS    | `Medium` |
-| Mar 5, 2022  | Implement basic debounce()       | 6      | JS    | `Easy`   |
-| Mar 7, 2022  | create an Event Emitter          | 16     | JS    | `Medium` |
-| Mar 7, 2022  | implement clearAllTimeout()      | 28     | JS    | `Easy`   |
-| Mar 7, 2022  | to.Be() or not.toBe()            | 161    | JS    | `Medium` |
-| Mar 7, 2022  | to.Be() or not.toBe()            | 161    | JS    | `Medium` |
-| Mar 7, 2022  | implement Array.prototype.flat() | 3      | JS    | `Easy`   |
-| Mar 7, 2022  | get DOM tree height              | 58     | JS    | `Easy`   |
+| Date         | Name                                  | Number | Topic | Level    |
+| ------------ | ------------------------------------- | ------ | ----- | -------- |
+| Feb 01, 2022 | Implement curry()                     | 1      | JS    | `Easy`   |
+| Feb 02, 2022 | curry() with placeholder              | 2      | JS    | `Easy`   |
+| Feb 22, 2022 | Implement clearAllTimeout()           | 28     | JS    | `Easy`   |
+| Mar 5, 2022  | Implement basic throttle()            | 4      | JS    | `Medium` |
+| Mar 5, 2022  | Implement basic debounce()            | 6      | JS    | `Easy`   |
+| Mar 7, 2022  | create an Event Emitter               | 16     | JS    | `Medium` |
+| Mar 7, 2022  | implement clearAllTimeout()           | 28     | JS    | `Easy`   |
+| Mar 7, 2022  | to.Be() or not.toBe()                 | 161    | JS    | `Medium` |
+| Mar 7, 2022  | to.Be() or not.toBe()                 | 161    | JS    | `Medium` |
+| Mar 7, 2022  | implement Array.prototype.flat()      | 3      | JS    | `Easy`   |
+| Mar 7, 2022  | get DOM tree height                   | 58     | JS    | `Easy`   |
+| Mar 8, 2022  | first bad version                     | 10     | JS    | `Medium` |
+| Mar 8, 2022  | create your own Promise               | 67     | JS    | `Medium` |
+| Mar 8, 2022  | implement Array.prototype.map()       | 151    | JS    | `Medium` |
+| Mar 8, 2022  | create a counter object               | 148    | JS    | `Easy`   |
+| Mar 8, 2022  | create a simple store for DOM element | 17     | JS    | `Easy`   |
