@@ -13,6 +13,7 @@
 | Feb 06, 2022 | Longest Common Subsequence            | 1143   | String      | `Medium` |
 | May 12, 2024 | Unique Email Addresses            | 929   | String      | `Easy` |
 | May 12, 2024 | Merge Strings Alternately            | 1768   | String      | `Easy` |
+| May 12, 2024 | Greatest Common Divisor of Strings    | 1071   | String      | `Easy` |
 
 ## BFE stats
 
