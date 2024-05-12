@@ -12,6 +12,7 @@
 | Feb 06, 2022 | Container With Most Water             | 11     | Arrays      | `Medium` |
 | Feb 06, 2022 | Longest Common Subsequence            | 1143   | String      | `Medium` |
 | May 12, 2024 | Unique Email Addresses            | 929   | String      | `Easy` |
+| May 12, 2024 | Merge Strings Alternately            | 1768   | String      | `Easy` |
 
 ## BFE stats
 
