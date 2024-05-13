@@ -15,6 +15,7 @@
 | May 12, 2024 | Merge Strings Alternately            | 1768   | String      | `Easy` |
 | May 12, 2024 | Greatest Common Divisor of Strings    | 1071   | String      | `Easy` |
 | May 12, 2024 | Kids With the Greatest Number of Candies   | 1431   | Arrays      | `Easy` |
+| May 12, 2022 | Can Place Flowers            | 605   | Arrays      | `Easy` |
 
 ## BFE stats
 
