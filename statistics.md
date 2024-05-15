@@ -17,6 +17,8 @@
 | May 12, 2024 | Kids With the Greatest Number of Candies | 1431   | Arrays      | `Easy`   |
 | May 12, 2022 | Can Place Flowers                        | 605    | Arrays      | `Easy`   |
 | May 13, 2022 | Reverse Vowels of a String               | 345    | String      | `Easy`   |
+| May 13, 2022 | Reverse Words in a String                | 151    | String      | `Medium` |
+| May 15, 2022 | Product of Array Except Self             | 238    | String      | `Medium` |
 
 ## BFE stats
 
