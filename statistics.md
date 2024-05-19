@@ -1,25 +1,26 @@
 ## Leetcode Stats
 
-| Date         | Name                                     | Number | Topic       | Level    |
-| ------------ | ---------------------------------------- | ------ | ----------- | -------- |
-| Apr 01, 2021 | Two Sum                                  | 1      | Arrays      | `Easy`   |
-| Dec 18, 2021 | Add Two Numbers                          | 2      | Linked List | `Medium` |
-| Dec 19, 2021 | Longest Substring w/o Repeating Chars    | 3      | String      | `Medium` |
-| Dec 21, 2021 | Maximum Subarray                         | 53     | Arrays      | `Easy`   |
-| Dec 27, 2021 | Move Zeroes                              | 283    | Arrays      | `Easy`   |
-| Dec 27, 2021 | Contains Duplicate                       | 217    | Arrays      | `Easy`   |
-| Dec 27, 2021 | Rotate Array                             | 189    | Arrays      | `Medium` |
-| Feb 06, 2022 | Container With Most Water                | 11     | Arrays      | `Medium` |
-| Feb 06, 2022 | Longest Common Subsequence               | 1143   | String      | `Medium` |
-| May 12, 2024 | Unique Email Addresses                   | 929    | String      | `Easy`   |
-| May 12, 2024 | Merge Strings Alternately                | 1768   | String      | `Easy`   |
-| May 12, 2024 | Greatest Common Divisor of Strings       | 1071   | String      | `Easy`   |
-| May 12, 2024 | Kids With the Greatest Number of Candies | 1431   | Arrays      | `Easy`   |
-| May 12, 2022 | Can Place Flowers                        | 605    | Arrays      | `Easy`   |
-| May 13, 2022 | Reverse Vowels of a String               | 345    | String      | `Easy`   |
-| May 13, 2022 | Reverse Words in a String                | 151    | String      | `Medium` |
-| May 15, 2022 | Product of Array Except Self             | 238    | String      | `Medium` |
-| May 15, 2022 | Increasing Triplet Subsequence           | 334    | String      | `Arrays` |
+| Date         | Name                                     | Number | Topic              | Level    |
+| ------------ | ---------------------------------------- | ------ | ------------------ | -------- |
+| Apr 01, 2021 | Two Sum                                  | 1      | Arrays             | `Easy`   |
+| Dec 18, 2021 | Add Two Numbers                          | 2      | Linked List        | `Medium` |
+| Dec 19, 2021 | Longest Substring w/o Repeating Chars    | 3      | String             | `Medium` |
+| Dec 21, 2021 | Maximum Subarray                         | 53     | Arrays             | `Easy`   |
+| Dec 27, 2021 | Move Zeroes                              | 283    | Arrays             | `Easy`   |
+| Dec 27, 2021 | Contains Duplicate                       | 217    | Arrays             | `Easy`   |
+| Dec 27, 2021 | Rotate Array                             | 189    | Arrays             | `Medium` |
+| Feb 06, 2022 | Container With Most Water                | 11     | Arrays             | `Medium` |
+| Feb 06, 2022 | Longest Common Subsequence               | 1143   | String             | `Medium` |
+| May 12, 2024 | Unique Email Addresses                   | 929    | String             | `Easy`   |
+| May 12, 2024 | Merge Strings Alternately                | 1768   | String             | `Easy`   |
+| May 12, 2024 | Greatest Common Divisor of Strings       | 1071   | String             | `Easy`   |
+| May 12, 2024 | Kids With the Greatest Number of Candies | 1431   | Arrays             | `Easy`   |
+| May 12, 2022 | Can Place Flowers                        | 605    | Arrays             | `Easy`   |
+| May 13, 2022 | Reverse Vowels of a String               | 345    | String             | `Easy`   |
+| May 13, 2022 | Reverse Words in a String                | 151    | String             | `Medium` |
+| May 15, 2022 | Product of Array Except Self             | 238    | String             | `Medium` |
+| May 15, 2022 | Increasing Triplet Subsequence           | 334    | String             | `Medium` |
+| May 19, 2022 | String Compression                       | 443    | String, 2 Pointers | `Medium` |
 
 ## BFE stats
 
