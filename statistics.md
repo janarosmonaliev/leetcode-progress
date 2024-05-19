@@ -21,6 +21,7 @@
 | May 15, 2022 | Product of Array Except Self             | 238    | String             | `Medium` |
 | May 15, 2022 | Increasing Triplet Subsequence           | 334    | String             | `Medium` |
 | May 19, 2022 | String Compression                       | 443    | String, 2 Pointers | `Medium` |
+| May 19, 2022 | Is Subsequence                           | 392    | String, 2 Pointers | `Easy`   |
 
 ## BFE stats
 
