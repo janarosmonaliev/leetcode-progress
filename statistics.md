@@ -15,14 +15,15 @@
 | May 12, 2024 | Merge Strings Alternately                | 1768   | String             | `Easy`   |
 | May 12, 2024 | Greatest Common Divisor of Strings       | 1071   | String             | `Easy`   |
 | May 12, 2024 | Kids With the Greatest Number of Candies | 1431   | Arrays             | `Easy`   |
-| May 12, 2022 | Can Place Flowers                        | 605    | Arrays             | `Easy`   |
-| May 13, 2022 | Reverse Vowels of a String               | 345    | String             | `Easy`   |
-| May 13, 2022 | Reverse Words in a String                | 151    | String             | `Medium` |
-| May 15, 2022 | Product of Array Except Self             | 238    | String             | `Medium` |
-| May 15, 2022 | Increasing Triplet Subsequence           | 334    | String             | `Medium` |
-| May 19, 2022 | String Compression                       | 443    | String, 2 Pointers | `Medium` |
-| May 19, 2022 | Is Subsequence                           | 392    | String, 2 Pointers | `Easy`   |
-| May 19, 2022 | Max Number of K-Sum Pairs                | 1679   | Arrays, HashTable  | `Medium` |
+| May 12, 2024 | Can Place Flowers                        | 605    | Arrays             | `Easy`   |
+| May 13, 2024 | Reverse Vowels of a String               | 345    | String             | `Easy`   |
+| May 13, 2024 | Reverse Words in a String                | 151    | String             | `Medium` |
+| May 15, 2024 | Product of Array Except Self             | 238    | String             | `Medium` |
+| May 15, 2024 | Increasing Triplet Subsequence           | 334    | String             | `Medium` |
+| May 19, 2024 | String Compression                       | 443    | String, 2 Pointers | `Medium` |
+| May 19, 2024 | Is Subsequence                           | 392    | String, 2 Pointers | `Easy`   |
+| May 19, 2024 | Max Number of K-Sum Pairs                | 1679   | Arrays, HashTable  | `Medium` |
+| May 22, 2024 | Maximum Average Subarray I               | 643    | Arrays             | `Easy`   |
 
 ## BFE stats
 
