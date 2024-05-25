@@ -25,6 +25,7 @@
 | May 19, 2024 | Max Number of K-Sum Pairs                               | 1679   | Arrays, HashTable      | `Medium` |
 | May 22, 2024 | Maximum Average Subarray I                              | 643    | Arrays                 | `Easy`   |
 | May 24, 2024 | Maximum Number of Vowels in a Substring of Given Length | 1456   | String, Sliding Window | `Medium` |
+| May 25, 2024 | Max Consecutive Ones III                                | 1004   | Arrays, Sliding Window | `Medium` |
 
 ## BFE stats
 
