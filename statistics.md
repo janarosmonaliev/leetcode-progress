@@ -27,6 +27,7 @@
 | May 24, 2024 | Maximum Number of Vowels in a Substring of Given Length | 1456   | String, Sliding Window | `Medium` |
 | May 25, 2024 | Max Consecutive Ones III                                | 1004   | Arrays, Sliding Window | `Medium` |
 | May 25, 2024 | Longest Subarray of 1's After Deleting One Element      | 1493   | Arrays, Sliding Window | `Medium` |
+| May 25, 2024 | Find the Highest Altitude                               | 1732   | Arrays, Prefix Sum     | `Easy`   |
 
 ## BFE stats
 
